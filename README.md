@@ -59,9 +59,3 @@ event-handler handle_dualhomed_esi_on_boot
   timeout 600
 !
 ```
-
-# RPM location
-You will find rpm in rpmbuild/RPMS/noarch/evpn-esi-handler-1.0-0.noarch.rpm
-
-# Contacts
-Alexander Bespalov, ab@arista.com
